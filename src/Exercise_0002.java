@@ -11,7 +11,6 @@ public class Exercise_0002 {
         num2 = scanner.nextInt();
 
         System.out.println("Sum is: " + (num1 + num2));
-
         scanner.close();
     }
 }
