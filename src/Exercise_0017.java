@@ -11,6 +11,7 @@ public class Exercise_0017 {
         b_1 = scanner.nextInt();
         System.out.print("Input second binary number: ");
         b_2 = scanner.nextInt();
+        System.out.println("Privet");
 
         sum_b.add((b_1%10 + b_2%10)%2);
 
